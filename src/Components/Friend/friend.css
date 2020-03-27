@@ -1,0 +1,23 @@
+.friend-image img{
+    height: 30%;
+    width: 30%;
+}
+.friend-image{
+    margin-top: 5px;
+}
+.friend{
+    border: 1px solid rgb(207, 223, 221);
+    width: 1000px;
+}
+.add-button{
+    color: white;
+    background-color:rgb(68, 156, 115);
+    height: 26px;
+    width: 200px;
+    border:1px solid rgb(52, 211, 137);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.friend-info{
+    margin-bottom: 3px;
+}

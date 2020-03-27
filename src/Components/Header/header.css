@@ -1,0 +1,12 @@
+.header img{
+    height: 100px;
+    
+}
+.header h2{
+    color: #F26F5A;
+}
+
+.header{
+    background-color: rgb(250, 250, 250);
+    padding-top: 5px;
+}
